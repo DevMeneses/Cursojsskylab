@@ -1,2 +1,2 @@
 # Cursojsskylab
-introdução ao javascript (skylab).
+Introdução ao javascript (skylab).
